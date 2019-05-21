@@ -2,13 +2,11 @@
 title: Home
 ---
 
-# Workshop Template!
+# Metadata Management Tools
 
 {% include figure.html img="tool-box.jpg" alt="toolbox" caption="Tool Box - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=100369" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
-
-*Add your workshop abstract here!*
+*Participants will use hands-on activities to learn how to incorporate different metadata management tools into their workflows, discuss example use cases for each tool, and have the opportunity to collaborate on problem-solving metadata workflow issues.*
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files!
 Host it for free on GitHub with gh-pages, and share!
