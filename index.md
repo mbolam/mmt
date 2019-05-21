@@ -15,10 +15,6 @@ title: Home
 * Evaluate metadata management tools.
 * Learn how and when to apply metadata management tools to your own work.
 
-
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
-
 <div class="toc" markdown="1">
 ## Contents:
 
