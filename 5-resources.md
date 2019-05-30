@@ -12,6 +12,7 @@ nav: true
 * https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
 * http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf
 * https://www.rexegg.com/regex-quickstart.html
+
 ### Pymarc
 * Online guide by Yuri Takhteyevfor using pymarc:http://www.takhteyev.org/courses/11W/inf1005/pymarc.pdf
 * Official project site for pymarc: https://pypi.org/project/pymarc/
