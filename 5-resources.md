@@ -4,50 +4,19 @@ nav: true
 ---
 
 # Resources
+## General Metadata Resources
+* Riley, J. (January 01, 2017) Understanding Metadata: What is Metadata, and What is it For?: A Primer. Baltimore, 8 MD: NISO. Retrieved from: https://groups.niso.org/apps/group_public/download.php/17446/Understanding%20Metadata.pdf
+* Zeng, M. (2015) Metadata Basics (Online Tutorial). Retrieved from: http://marciazeng.slis.kent.edu/metadatabasics/index.htm
+* Zeng, M. and Qin, J. (2016) Metadata, Second Edition. USA: ALA Neal-Schuman.
 
-To learn how to use `workshop-template`, the [Readme]({{ "README.md" | absolute_url }}) and content pages have some documentation.
+## MARC Tools
+* The University of Illinois, Urbana-Champaign's MarcEdit Libguide (last updated 2017), pdf version (last updated 2015)
+* Frank, H. (2013) Augmenting the Cataloger’s Bag of Tricks: Using MarcEdit, Python, and PyMARC for Batch-Processing MARC Records Generated From the Archivists’ Toolkit. Code4Lib, (21). Retrieved from: http://journal.code4lib.org/articles/8336
+* Yoose, B. (2012) Workflow Automation in Technical Services: Part 1. ACRL TechConnect. Retrieved from: https://acrl.ala.org/techconnect/post/workflow-automation-in-technical-services-part-1/
+* Yoose, B. (2012) Workflow Automation in Technical Services: Part 2. ACRL TechConnect. Retrieved from: https://acrl.ala.org/techconnect/post/workflow-automation-in-technical-services-part-2/
+* “Introduction to Python and PyMARC.” Two-part webinar series by Lauren Magnuson, Head of Collection Management and Technical Services at California State University San Marcos and Development Coordinator for the PALNI Library consortium.
 
-Other workshop sites using this template:
-
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
-
-# Reference
-
-### Git & GitHub
-
-[GitHub](https://github.com/){:target="_blank"} is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and static web hosting.
-Accounts are free for public repositories--private repositories are available on a subscription pricing model.
-To learn more check out Hellow World on [GitHub Guides](https://guides.github.com/){:target="_blank"} or [GitHub Training](https://services.github.com/on-demand/){:target="_blank"}.
-
-### Markdown
-
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
-
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
-- GitHub Guide [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-### YAML
-
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the `_config.yml` file.
-
-### Liquid
-
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll](https://jekyllrb.com/docs/templates/) it allows you to layout pages built from modular components and data, using the `_includes`, `_layouts`, and `_data` directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-### Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the `_sass` directory, that will be combined and compiled into normal CSS files when the site is built.
+## OpenRefine
+* Heller, M. (2014). Notes on Measuring and Calculating Impact in Institutional Repositories. Glorious Generalist. Retrieved from: http://www.gloriousgeneralist.com/2014/12/notes-on-measuring-and-calculating-impact-in-institutional-repositories/
+* Topham, K. (2018) Of Python and Pandas: Using Programming to Improve Discovery and Access. Bloggers! Retrieved from: https://saaers.wordpress.com/2018/10/09/of-python-and-pandas-using-programming-to-improve-discovery-and-access/
+* Whittenberger, L. (2015) Identifying potential headings for Authority work using III Sierra, MS Excel and OpenRefine. Marquette University. Retrieved from: https://epublications.marquette.edu/lib_fac/81/
