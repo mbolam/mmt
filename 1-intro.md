@@ -10,10 +10,10 @@ Metadata Management Tools is a workshop designed for library staff who regularly
 
 | Time | Focus |
 |:----:|:-----:|
-| 12:00 - 12:15 | **Introduction** |
-| 12:15 - 1:30 | **Where to Start?** |
-| 1:30 - 1:40 | **Break** |
-| 1:40 - 2:40 | **Metadata Management Tools for MARC** |
-| 2:40 - 2:50 | **Break** |
-| 2:50 - 3:50 | **OpenRefine** |
-| 3:50 - 4:00 | **Questions** |
+| 12:00 - 12:15 | Introduction |
+| 12:15 - 1:30 | Where to Start? |
+| 1:30 - 1:40 | Break |
+| 1:40 - 2:40 | Metadata Management Tools for MARC |
+| 2:40 - 2:50 | Break |
+| 2:50 - 3:50 | OpenRefine |
+| 3:50 - 4:00 | Questions |
