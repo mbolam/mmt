@@ -19,3 +19,10 @@ Metadata Management Tools is a workshop designed for library staff who regularly
 | 2:40 - 2:50 | Break |
 | 2:50 - 3:50 | OpenRefine |
 | 3:50 - 4:00 | Questions |
+
+## Discussion
+
+* Introductions (who, what, where)
+* With what kinds of metadata do you interact?
+* What do you hope to learn in this class?
+* Tell us something fun!

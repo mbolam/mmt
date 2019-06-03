@@ -8,10 +8,12 @@ title: Home
 
 ## Logistics
 
-Friday, June 21
-12:00 PM - 4:00 PM
-[Registration & ALA info](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=518951)
-[Instructions for preparing](prep.md) for the workshop
+* Date: Friday, June 21
+* Time: 12:00 PM - 4:00 PM
+* Location:
+* Instructor: [Mike Bolam](https://www.library.pitt.edu/michael-bolam), Heaad, [Metadata and Discovery Unit](https://www.library.pitt.edu/departments/metadata-and-discovery-unit), Head, [University Library System](https://www.library.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/)
+* [Registration & ALA info](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=518951)
+* [Instructions for preparing](prep.md) for the workshop
 Pre-workshop survey
 
 ## ALA Preconference for LITA --- June 21st, 2019
