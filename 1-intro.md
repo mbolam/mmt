@@ -8,20 +8,6 @@ With so many tools available to catalogers and metadata workers, it can be diffi
 
 Metadata Management Tools is a workshop designed for library staff who regularly work manipulating MARC data and/or metadata sets as well as library school students interested in the subject of metadata management. A basic understanding of metadata standards (such as MARC or Dublin Core) and formatting will be helpful for this course.
 
-## Logistics
-Friday, June 21
-
-12:00 PM - 4:00 PM
-
-[Registration & ALA info](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=518951)
-
-[Instructions for preparing](prep.md) for the workshop
-
-Pre-workshop survey
-
-## Introductions
-[Mike Bolam](https://www.library.pitt.edu/michael-bolam), Head, Metadata and Discovery Unit, University Library System, University of Pittsburgh
-
 ## Agenda
 | Time | Focus |
 |:----:|:-----:|
