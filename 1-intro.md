@@ -9,6 +9,7 @@ With so many tools available to catalogers and metadata workers, it can be diffi
 Metadata Management Tools is a workshop designed for library staff who regularly work manipulating MARC data and/or metadata sets as well as library school students interested in the subject of metadata management. A basic understanding of metadata standards (such as MARC or Dublin Core) and formatting will be helpful for this course.
 
 ## Agenda
+
 | Time | Focus |
 |:----:|:-----:|
 | 12:00 - 12:15 | Introduction |
