@@ -10,9 +10,13 @@ Metadata Management Tools is a workshop designed for library staff who regularly
 
 ## Logistics
 Friday, June 21
+
 12:00 PM - 4:00 PM
+
 [Registration & ALA info](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=518951)
+
 [Instructions for preparing](prep.md) for the workshop
+
 Pre-workshop survey
 
 ## Introductions
