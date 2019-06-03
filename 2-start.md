@@ -5,13 +5,25 @@ nav: true
 
 # Where to start?
 
-Figuring out what type of metadata you have, where it’s going, and how to get it there
+The first step to managing your metadata is figuring out what type of metadata you have, where it’s going, and how to get it there.
 
+In this section, we will learn about the following topics:
 * What is metadata management?
 * File types
 * Extracting technical metadata (using Command Line and the File Information Toolset)
 * File conversion (using Excel to export XML)
 * File conversion (using MarcEdit)
+
+## What is Metadata Management?
+*"Metadata management is the administration of data that describes other data." -- [Margaret Rouse](https://whatis.techtarget.com/definition/metadata-management)*
+
+Establishing policies and processes that ensure information can be:
+* integrated
+* accessed
+* shared
+* linked
+* analyzed
+
 
 
 Group discussion on what kind of workflows they use for metadata management

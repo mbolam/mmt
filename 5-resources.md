@@ -5,8 +5,20 @@ nav: true
 
 # Resources
 
+## Workflows
+* [Library Workflow Exchange](http://www.libraryworkflowexchange.org/)
+
+## Command Line
+* [How to Use the Windows Command Line](https://www.computerhope.com/issues/chusedos.htm)
+* [Introduction to the Mac OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+
 ## MARC Tools
 ### MarcEdit
+* [MarcEdit (LibGuide by University of Illinois at Urbana-Champaign)](https://guides.library.illinois.edu/MarcEdit)
+* [MarcEdit Instructions for Cataloguers](https://wiki.ucl.ac.uk/display/LibraryServices/MarcEdit+Instructions+for+Cataloguers)
+[MarcEdit Help](https://marcedit.reeset.net/help)
+[Metadata tools: working with MarcEdit and OpenRefine](https://archive.cilip.org.uk/cataloguing-indexing-group/presentations/metadata-tools-working-marcedit-openrefine)
+
 
 ### Regular Expressions
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
