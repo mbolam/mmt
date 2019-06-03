@@ -16,7 +16,6 @@ Friday, June 21
 Pre-workshop survey
 
 ## Introductions
-
 [Mike Bolam](https://www.library.pitt.edu/michael-bolam), Head, Metadata and Discovery Unit, University Library System, University of Pittsburgh
 
 ## Agenda
