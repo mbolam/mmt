@@ -26,3 +26,7 @@ Metadata Management Tools is a workshop designed for library staff who regularly
 * With what kinds of metadata do you interact?
 * What do you hope to learn in this class?
 * Tell us something fun!
+
+## What is Metadata?
+
+## Types of Metadata

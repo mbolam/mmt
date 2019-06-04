@@ -14,7 +14,7 @@ Metadata Management Tools for MARC
 * MarcEdit – Using the editor
 * Regular expressions in MarcEdit
 * Pymarc - Intro
-	 
+
 
 Students will learn:
 * What MarcEdit is

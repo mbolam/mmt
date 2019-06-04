@@ -24,6 +24,9 @@ Establishing policies and processes that ensure information can be:
 * linked
 * analyzed
 
+Metadata Standards define elements.
+Content Standards tell you what and how to record those elements.
+
 ## Where do we start?
 
 {% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Forked Path - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="80%" %}
@@ -32,12 +35,25 @@ Establishing policies and processes that ensure information can be:
 * What file types are we working with?
 * Where is it going?
 
+## Technical Metadata Scenario 1
 
-Metadata Standards define elements.
-Content Standards tell you what and how to record those elements.
+## Technical Metadata Scenario 2
 
-Group discussion on what kind of workflows they use for metadata management
+## Discussion
+What kind of workflows do you use for metadata management?
+
+## Programs mentioned by order of appearance:
+* MarcEdit-https://marcedit.reeset.net/
+* Git-https://git-scm.com/
+* Command Line –Built into your computer
+* Notepad++ --Comes with Windows
+* Sublime Text Editor --https://www.sublimetext.com/
+* Linux Command Line Emulator -https://www.masswerk.at/jsuix/
+* FITS (File Information Tool Set) -https://projects.iq.harvard.edu/fits/home
+* DataAccessioner-http://dataaccessioner.org/
+* DataAccessionerMetadata Transformer -http://dataaccessioner.org/da-mt.htm
+* RightsStatements.org -http://rightsstatements.org/
+
+
 
 Students follow along with tutorials for MarcEdit, Excel XML export, Command Line and FITS technical metadata extraction after introduction of tools.
-
-Students should feel comfortable identifying what tools are available to convert files in their work.
