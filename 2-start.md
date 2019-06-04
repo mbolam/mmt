@@ -24,7 +24,14 @@ Establishing policies and processes that ensure information can be:
 * linked
 * analyzed
 
+## Where do we start?
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
 
+
+Metadata Standards define elements.
+Content Standards tell you what and how to record those elements.
 
 Group discussion on what kind of workflows they use for metadata management
 
