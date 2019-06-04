@@ -18,7 +18,9 @@ In this section, we will learn about the following topics:
 *"Metadata management is the administration of data that describes other data." -- [Margaret Rouse](https://whatis.techtarget.com/definition/metadata-management)*
 
 Establishing policies and processes that ensure information can be:
-{% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Tool Box - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="75%" float="right" %}
+
+{% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Tool Box - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="75%" %}
+
 * integrated
 * accessed
 * shared
