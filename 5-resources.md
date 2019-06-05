@@ -36,6 +36,10 @@ nav: true
 * [Workflow for pymarc and Archivists’ Toolkit by Becky Yoose](http://journal.code4lib.org/articles/8336)
 
 ## OpenRefine
-* You can find out a lot more about OpenRefine at http://openrefine.org and check out some great introductory videos.
-* There is a Google Group that can answer a lot of beginner questions and problems.
-* There is also an OpenRefine Google Plus community where you can find a lot of help and a lot of folks from the life sciences are members.
+* [OpenRefine Home Page](http://openrefine.org/)
+* [OpenRefine on GitHub](https://github.com/OpenRefine/OpenRefine)
+* [OpenRefine Wiki](https://github.com/OpenRefine/OpenRefine/wiki)
+* [GREL reference](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
+* [List of OpenRefine tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
+* [OpenRefine Google Group](http://groups.google.com/d/forum/openrefine)
+* [My OpenRefine Workshop](https://mbolam.github.io/DSWS_OpenRefine/) - includes some examples and additional resources.

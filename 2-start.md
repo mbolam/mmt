@@ -43,17 +43,13 @@ Content Standards tell you what and how to record those elements.
 What kind of workflows do you use for metadata management?
 
 ## Programs mentioned by order of appearance:
-* MarcEdit-https://marcedit.reeset.net/
-* Git-https://git-scm.com/
-* Command Line –Built into your computer
-* Notepad++ --Comes with Windows
-* Sublime Text Editor --https://www.sublimetext.com/
-* Linux Command Line Emulator -https://www.masswerk.at/jsuix/
-* FITS (File Information Tool Set) -https://projects.iq.harvard.edu/fits/home
-* DataAccessioner-http://dataaccessioner.org/
-* DataAccessionerMetadata Transformer -http://dataaccessioner.org/da-mt.htm
-* RightsStatements.org -http://rightsstatements.org/
-
-
-
-Students follow along with tutorials for MarcEdit, Excel XML export, Command Line and FITS technical metadata extraction after introduction of tools.
+* [MarcEdit](https://marcedit.reeset.net/)
+* [Git](https://git-scm.com/)
+* Command Line - Built into your computer
+* [Notepad++](https://notepad-plus-plus.org/download/v7.7.html)
+* [Sublime Text Editor](https://www.sublimetext.com/)
+* [Linux Command Line Emulator](https://www.masswerk.at/jsuix/)
+* [FITS (File Information Tool Set)](https://projects.iq.harvard.edu/fits/home)
+* [DataAccessioner](http://dataaccessioner.org/)
+* [DataAccessioner Metadata Transformer](http://dataaccessioner.org/da-mt.htm)
+* [RightsStatements.org](http://rightsstatements.org/)

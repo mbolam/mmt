@@ -17,5 +17,6 @@ Downloading the metadata management tools and sample data prior to the preconfer
 * [Zip archive of sample data](data/sample_data.zip)
 
 ## Advanced Text editor
+Either of the following will work for the examples in the preconference.
 * [Notepad++](https://notepad-plus-plus.org/download/v7.7.html) - Windows only
 * [Sublime Text](https://www.sublimetext.com/3) - Windows, Mac OS X, or Linux
