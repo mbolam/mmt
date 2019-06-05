@@ -29,4 +29,12 @@ Metadata Management Tools is a workshop designed for library staff who regularly
 
 ## What is Metadata?
 
+Metadata is “a set of data that describes and gives information about other data.”
+
+Or
+
+“Information about information”
+
+{% include figure.html img="sandman.jpg" alt="beer cozy" caption="Sandman Beer Cozy" width="60%" %}
+
 ## Types of Metadata
