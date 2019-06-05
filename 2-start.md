@@ -24,6 +24,7 @@ Establishing policies and processes that ensure information can be:
 * shared
 * linked
 * analyzed
+* maintained
 
 Metadata Standards define elements.
 Content Standards tell you what and how to record those elements.

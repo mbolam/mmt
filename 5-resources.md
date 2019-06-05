@@ -5,6 +5,9 @@ nav: true
 
 # Resources
 
+## Readings
+* [Greetings from Metadata Management Tools!](https://litablog.org/2018/12/greetings-from-metadata-management-tools/) - Kelsey George, the original developer of this workshop/course, contributed a post to the LITA Blog providing an overview of Metadata Management Tools after her online course last fall.
+
 ## Workflows
 * [Library Workflow Exchange](http://www.libraryworkflowexchange.org/)
 
@@ -34,7 +37,7 @@ nav: true
 * [Workflow for pymarc and DSpace by Lauren Magnuson](https://acrl.ala.org/techconnect/post/hacking-in-python-with-pymarc/)
 * [Workflow for pymarc and Archivists’ Toolkit by Becky Yoose](http://journal.code4lib.org/articles/8336)
 
-### OpenRefine
+## OpenRefine
 * [OpenRefine Home Page](http://openrefine.org/)
 * [OpenRefine on GitHub](https://github.com/OpenRefine/OpenRefine)
 * [OpenRefine Wiki](https://github.com/OpenRefine/OpenRefine/wiki)
