@@ -16,7 +16,7 @@ title: Home
 * Instructor: [Mike Bolam](https://www.library.pitt.edu/michael-bolam), Head, [Metadata and Discovery Unit](https://www.library.pitt.edu/departments/metadata-and-discovery-unit), Head, [University Library System](https://www.library.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/)
 * [Registration & ALA info](https://www.eventscribe.com/2019/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=518951)
 * [Instructions for preparing](prep.md) for the workshop
-* Pre-workshop survey
+* [Pre-workshop survey](https://forms.gle/aKk5Vm6AySd7ooo87)
 
 ## Intended Learning Outcomes
 * Understand the benefits of establishing metadata management workflows.
