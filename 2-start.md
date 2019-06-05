@@ -4,6 +4,7 @@ nav: true
 ---
 
 # Where to start?
+{% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Forked Path - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="80%" %}
 
 The first step to managing your metadata is figuring out what type of metadata you have, where it’s going, and how to get it there.
 
@@ -28,8 +29,6 @@ Metadata Standards define elements.
 Content Standards tell you what and how to record those elements.
 
 ## Where do we start?
-
-{% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Forked Path - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="80%" %}
 
 * What kind of metadata are we dealing with?
 * What file types are we working with?
