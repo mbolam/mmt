@@ -13,15 +13,23 @@ nav: true
 
 ### Inside OpenRefine
 
-  #### Text vs. Numbers
-  #### Split Columns
-  #### Undo/Redo
-  #### Trim Whitespace
-  #### Edit cells
-  #### Add Column Based on This Column
-  #### Faceting
-  #### Clustering
-  #### Filtering
+#### Text vs. Numbers
+
+#### Split Columns
+
+#### Undo/Redo
+
+#### Trim Whitespace
+
+#### Edit cells
+
+#### Add Column Based on This Column
+
+#### Faceting
+
+#### Clustering
+
+#### Filtering
 
 ### Generating Scripts from OpenRefine
 
