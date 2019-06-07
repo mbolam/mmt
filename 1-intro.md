@@ -43,4 +43,4 @@ Or
 
 {% include figure.html img="Structural_Metadata.JPG" alt="Example of Structural Metadata" caption="Structural Metadata is typically created so digital collections systems can manage and display the files properly." width="100%" %}
 
-{% include figure.html img="Technical_Metadata.JPG" alt="Example of Technical Metadata" caption="Technical Metadata is for decoding and rendering files some computers and software know how to interact with them." width="100%" %}
+{% include figure.html img="Technical_Metadata.JPG" alt="Example of Technical Metadata" caption="Technical Metadata is for decoding and rendering files so computers and software know how to interact with them." width="100%" %}
