@@ -3,11 +3,17 @@ title: MARC Tools
 nav: true
 ---
 
-# Metadata Management Tools
+# Metadata Management Tools for MARC
 
-Metadata Management Tools for MARC
+## MarcEdit - What is it?
 
+## Using MarcEdit
 
+## Regular Expressions in MarcEdit
+
+## Pymarc - What is it?
+
+## When to use Pymarc
 
 
 * MarcEdit – Intro
