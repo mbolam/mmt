@@ -40,3 +40,5 @@ Or
 ## Types of Metadata
 
 {% include figure.html img="Descriptive_Metadata.JPG" alt="Example of Descriptive Metadata" caption="Date, Title, and Content are all Descriptive Metadata" width="100%" %}
+
+{% include figure.html img="Structural_Metadata.JPG" alt="Example of Structural Metadata" caption="Structural Metadata is typically created so digital collections systems can manage and display the files properly." width="100%" %}
