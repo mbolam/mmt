@@ -35,6 +35,6 @@ Or
 
 “Information about information”
 
-{% include figure.html img="sandman.jpg" alt="Sandman beer cozy" caption="Sandman Beer Cozy for my own collection" width="60%" %}
+{% include figure.html img="lapark.jpg" alt="Sandman beer cozy" caption="Sandman Beer Cozy for my own collection" width="60%" %}
 
 ## Types of Metadata
