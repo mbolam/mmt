@@ -38,3 +38,5 @@ Or
 {% include figure.html img="lapark.jpg" alt="LA Park stands on a chair in Cleveland, Ohio" caption="LA Park stands on a chair in Cleveland, Ohio" width="100%" %}
 
 ## Types of Metadata
+
+{% include figure.html img="Descriptive_Metadata.JPG" alt="Example of Descriptive Metadata" caption="Date, Title, and Content are all Descriptive Metadata" width="100%" %}
