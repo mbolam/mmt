@@ -35,6 +35,6 @@ Or
 
 “Information about information”
 
-{% include figure.html img="lapark.jpg" alt="LA Park stands on a chair in Cleveland, Ohio" caption="LA Park stands on a chair in Cleveland, Ohio" width="60%" %}
+{% include figure.html img="lapark.jpg" alt="LA Park stands on a chair in Cleveland, Ohio" caption="LA Park stands on a chair in Cleveland, Ohio" width="100%" %}
 
 ## Types of Metadata
