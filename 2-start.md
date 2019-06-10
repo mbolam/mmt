@@ -70,6 +70,8 @@ You have an Excel spreadsheet (.xsl) that you have downloaded from your institut
 * What file types are we working with?
 * Where is it going?
 
+[Converting metadata using MarcEdit](2b-commandline.html)
+
 ## Technical Metadata Scenario 2
 
 You have xml records that you have downloaded from your digital repository containing metadata for pdf files of electronic theses and dissertations (ETDs). You decided you want to see if you can add the page counts, software used to create the files, and file type for the individual pdfs.
