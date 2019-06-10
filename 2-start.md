@@ -15,18 +15,18 @@ Or
 
 ## Types of Metadata
 
-*Descriptive metadata* describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.
+**Descriptive metadata** describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.
 
 {% include figure.html img="Descriptive_Metadata.JPG" alt="Example of Descriptive Metadata" caption="Date, Title, and Content are all Descriptive Metadata" width="100%" %}
 
-*Structural metadata* indicates how compound objects are put together, for example, how pages are ordered to form chapters.
+**Structural metadata** indicates how compound objects are put together, for example, how pages are ordered to form chapters.
 
 {% include figure.html img="Structural_Metadata.JPG" alt="Example of Structural Metadata" caption="Structural Metadata is typically created so digital collections systems can manage and display the files properly." width="100%" %}
 
-*Administrative metadata* provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.
- * Technical metadata - For decoding and rendering files
- * Preservation metadata - Long-term management of files
- * Rights metadata - Intellectual property rights attached to content
+**Administrative metadata** is an umbrella term for the metadata that provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.
+ * **Technical metadata** - For decoding and rendering files
+ * **Preservation metadata** - Long-term management of files
+ * **Rights metadata** - Intellectual property rights attached to content
 
 {% include figure.html img="Technical_Metadata.JPG" alt="Example of Technical Metadata" caption="Technical Metadata is for decoding and rendering files so computers know how to interact with them." width="100%" %}
 
@@ -64,14 +64,35 @@ Content Standards tell you what and how to record those elements.
 
 ## Descriptive Metadata Scenario
 
+Your colleague used MarcEdit to modify a collection of MARC records, and now you need to import the changes back into your catalog. The file delivered is a .mrk (mnemonic MARC file), but you know your catalog is expecting a .mrc (binary MARC File).
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
+
 ## Technical Metadata Scenario 1
+
+You have an Excel spreadsheet (.xsl) that you have downloaded from your institutional repository containing metadata for electronic theses and dissertations (ETDs). You decided you want to add file type and file size to the metadata, so that researchers accessing the ETDs have an idea what they are about to download.
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
 
 ## Technical Metadata Scenario 2
 
+You have xml records that you have downloaded from your digital repository containing metadata for pdf files of electronic theses and dissertations (ETDs). You decided you want to see if you can add the page counts, software used to create the files, and file type for the individual pdfs.
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
+
 ## Administrative Metadata Scenario
 
-## Discussion
-What kind of workflows do you use for metadata management?
+You have received a file with image files that you are planning to accession into your digital archive (which ingests XML). Before you make the image files available to the public, you want to record technical, preservation, and rights metadata about the files. You do not feel comfortable using command line.
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
 
 ## Programs mentioned by order of appearance:
 * [MarcEdit](https://marcedit.reeset.net/)
