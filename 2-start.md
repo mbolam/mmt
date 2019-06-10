@@ -70,6 +70,8 @@ Your colleague used MarcEdit to modify a collection of MARC records, and now you
 * What file types are we working with?
 * Where is it going?
 
+[Converting metadata using MarcEdit](2a-converting,md)
+
 ## Technical Metadata Scenario 1
 
 You have an Excel spreadsheet (.xsl) that you have downloaded from your institutional repository containing metadata for electronic theses and dissertations (ETDs). You decided you want to add file type and file size to the metadata, so that researchers accessing the ETDs have an idea what they are about to download.
