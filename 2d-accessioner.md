@@ -10,4 +10,4 @@ The Data Accessioner(DA)) is a simple tool, with an easy-to-use graphic interfac
 * gathering metadata (viaFITS),
 * compiling an XML metadata file (with the option to include Dublin Core metadata as of v 1.0) for future reference.
 
-{% include figure.html img="dataacc.jpg" alt="Data Accessioner Home Screen" caption="Data Accessioner" width="100%" %}
+{% include figure.html img="dataacc.jpg" alt="Data Accessioner Home Screen" caption="Data Accessioner" width="50%" %}
