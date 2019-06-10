@@ -70,7 +70,7 @@ Your colleague used MarcEdit to modify a collection of MARC records, and now you
 * What file types are we working with?
 * Where is it going?
 
-[Converting metadata using MarcEdit](2a-converting,md)
+[Converting metadata using MarcEdit](2a-converting.html)
 
 ## Technical Metadata Scenario 1
 
