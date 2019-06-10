@@ -9,4 +9,6 @@ We convert files when a use case requires the metadata to be in another form. Fo
 
 Tools like MarcEdit, pymarc, OpenRefine, and XSLT can be used to convert metadata files.
 
-# Converting .mrk to .mrc
+# Converting .mrk to .mrc using MarcEdit
+
+{% include figure.html img="marcedit_home.jpg" alt="MarcEdit home screen" caption="MarcEdit home screen" width="100%" %}
