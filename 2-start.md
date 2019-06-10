@@ -15,22 +15,22 @@ Or
 
 ## Types of Metadata
 
-{% include figure.html img="Descriptive_Metadata.JPG" alt="Example of Descriptive Metadata" caption="Date, Title, and Content are all Descriptive Metadata" width="100%" %}
-
 Descriptive metadata describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.
 
-{% include figure.html img="Structural_Metadata.JPG" alt="Example of Structural Metadata" caption="Structural Metadata is typically created so digital collections systems can manage and display the files properly." width="100%" %}
+{% include figure.html img="Descriptive_Metadata.JPG" alt="Example of Descriptive Metadata" caption="Date, Title, and Content are all Descriptive Metadata" width="100%" %}
 
 Structural metadata indicates how compound objects are put together, for example, how pages are ordered to form chapters.
 
-{% include figure.html img="Technical_Metadata.JPG" alt="Example of Technical Metadata" caption="Technical Metadata is for decoding and rendering files so computers know how to interact with them." width="100%" %}
+{% include figure.html img="Structural_Metadata.JPG" alt="Example of Structural Metadata" caption="Structural Metadata is typically created so digital collections systems can manage and display the files properly." width="100%" %}
 
 Administrative metadata provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.
  * Technical metadata - For decoding and rendering files
  * Preservation metadata - Long-term management of files
  * Rights metadata - Intellectual property rights attached to content
 
-# Where to start metadata management?
+{% include figure.html img="Technical_Metadata.JPG" alt="Example of Technical Metadata" caption="Technical Metadata is for decoding and rendering files so computers know how to interact with them." width="100%" %}
+
+# Where to start with metadata management?
 {% include figure.html img="fork-in-the-road.jpg" alt="forked road" caption="Forked Path - CC0 - https://www.publicdomainpictures.net/en/view-image.php?image=210429" width="80%" %}
 
 The first step to managing your metadata is figuring out what type of metadata you have, where it’s going, and how to get it there.
