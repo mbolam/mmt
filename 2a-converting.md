@@ -9,18 +9,18 @@ We convert files when a use case requires the metadata to be in another form. Fo
 
 Tools like MarcEdit, pymarc, OpenRefine, and XSLT can be used to convert metadata files.
 
-# Converting between .mrk and .mrc using MarcEdit
+## Converting between .mrk and .mrc using MarcEdit
 
 {% include figure.html img="marcedit_home.jpg" alt="MarcEdit home screen" caption="MarcEdit home screen" width="100%" %}
 
-## Converting .mrk to .mrc
+### Converting .mrk to .mrc
 
 1. Open Marc Tools
 1. Select MarcMaker
 1. **Open:** Select the metadata collection to be converted (.mrk)
 1. **Save as:** Provide a location and filename for the converted file (.mrc)
 
-## Converting .mrc to .mrk
+### Converting .mrc to .mrk
 1. Open Marc Tools
 1. Select MarcBreaker
 1. **Open:** Select the metadata collection to be converted (.mrc)
