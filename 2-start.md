@@ -70,7 +70,7 @@ You have an Excel spreadsheet (.xsl) that you have downloaded from your institut
 * What file types are we working with?
 * Where is it going?
 
-[Converting metadata using MarcEdit](2b-commandline.html)
+[Extracting Metadata using the Command Line](2b-commandline.html)
 
 ## Technical Metadata Scenario 2
 
@@ -80,6 +80,8 @@ You have xml records that you have downloaded from your digital repository conta
 * What file types are we working with?
 * Where is it going?
 
+[Extracting Metadata using the FITS](2c-fits.html)
+
 ## Administrative Metadata Scenario
 
 You have received a file with image files that you are planning to accession into your digital archive (which ingests XML). Before you make the image files available to the public, you want to record technical, preservation, and rights metadata about the files. You do not feel comfortable using command line.
@@ -87,6 +89,8 @@ You have received a file with image files that you are planning to accession int
 * What kind of metadata are we dealing with?
 * What file types are we working with?
 * Where is it going?
+
+[Extracting Metadata using the Data Accessioner](2d-accessioner.html)
 
 ## Programs mentioned by order of appearance:
 * [MarcEdit](https://marcedit.reeset.net/)
