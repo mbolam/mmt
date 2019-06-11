@@ -35,7 +35,7 @@ nav: true
 
 ### Saving and Exporting
 
-  #### Exporting Data
-  #### Exporting Projects
+#### Exporting Data
+#### Exporting Projects
 
 ### Where to Find Help
