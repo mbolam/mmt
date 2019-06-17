@@ -10,7 +10,7 @@ nav: true
 ## OpenRefine - What is it?
 
 * Formally Google Refine
-* It is an AMAZINGcleaning tool!
+* It is an AMAZING cleaning tool!
 * Similar to spreadsheet applications, like Microsoft Excel, but behaves more like a database!
 * Available in 14 languages!
 
