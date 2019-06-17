@@ -36,7 +36,7 @@ This can mess up your metadata clean up. So it’s important to make sure that t
 
 ### Split Columns
 
-{% include figure.html img="refine_split.jpg" alt="OpenRefine Split Tool" caption="OpenRefine Split Tool" width="100%" %}
+{% include figure.html img="refine_split.jpg" alt="OpenRefine Split Tool" caption="OpenRefine Split Tool" width="60%" %}
 
 If data in a column needs to be split into multiple columns, and the parts are separated by a common separator (say a comma, or a space), you can use that separator to divide up the pieces into their own columns.
 
@@ -68,7 +68,7 @@ You can use simple or complex language to create a new column.
 
 ### Faceting
 
-{% include figure.html img="refine_facet.jpg" alt="OpenRefine Facet Navigation" caption="OpenRefine Facet Navigation" width="100%" %}
+{% include figure.html img="refine_facet.jpg" alt="OpenRefine Facet Navigation" caption="OpenRefine Facet Navigation" width="50%" %}
 
 Faceting groups together every identical instance of cell values in a column.
 
