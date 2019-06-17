@@ -30,7 +30,7 @@ nav: true
 ### Pymarc
 * [Introduction to Python and PyMARC, Session 1](http://www.ala.org/alcts/confevents/upcoming/webinar/101817)
 * [Introduction to Python and PyMARC, Session 2](http://www.ala.org/alcts/confevents/upcoming/webinar/102517)
-* [Online guide by Yuri Takhteyevfor using pymarc](http://www.takhteyev.org/courses/11W/inf1005/pymarc.pdf)
+* [Online guide by Yuri Takhteyev for using pymarc](http://www.takhteyev.org/courses/11W/inf1005/pymarc.pdf)
 * [Official project site for pymarc](https://pypi.org/project/pymarc/)
 * [Github with code for pymarc](https://github.com/edsu/pymarc)
 * [Google Group to answer questions](https://groups.google.com/forum/#!forum/pymarc)
