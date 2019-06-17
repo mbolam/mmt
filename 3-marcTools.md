@@ -74,7 +74,7 @@ _|          _|_|
 
 ### Python + MARC = PyMARC/pymarc
 
-PyMARC or pymarc is a Python library developed in 2005 by Gabriel Farrell, Mark Matienzo, and Ed Summers.
+[PyMARC or pymarc](https://pypi.org/project/pymarc/) is a Python library developed in 2005 by Gabriel Farrell, Mark Matienzo, and Ed Summers.
 
 “It was mostly designed to be an emergency eject seat, for getting your data assets out of MARC and into some kind of saner representation. However over the years it has been used to create and modify MARC records, since despite repeated calls for it to die as a format, MARC seems to be living quite happily as a zombie.”
 
