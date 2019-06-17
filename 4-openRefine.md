@@ -18,6 +18,8 @@ nav: true
 
 ### Creating a New Project
 
+{% include figure.html img="refine_home.jpg" alt="OpenRefine Home Screen" caption="OpenRefine Home Screen" width="100%" %}
+
 You can create a new project with data from:
 * Your computer
 * A Web Address (URLs)
@@ -33,6 +35,8 @@ Similar to how Excel allows you to choose the format of the data inside a cell a
 This can mess up your metadata clean up. So it’s important to make sure that the format the program is using to read your data actually matches your data type.
 
 #### Split Columns
+
+{% include figure.html img="refine_split.jpg" alt="OpenRefine Split Tool" caption="OpenRefine Split Tool" width="100%" %}
 
 If data in a column needs to be split into multiple columns, and the parts are separated by a common separator (say a comma, or a space), you can use that separator to divide up the pieces into their own columns.
 
@@ -51,6 +55,8 @@ Whitespace is very difficult to catch with the naked eye, especially in large da
 
 #### Edit cells
 
+{% include figure.html img="refine_transforms.jpg" alt="OpenRefine Common Transformation List" caption="OpenRefine Common Transformation List" width="100%" %}
+
 There are many ways other than just trimming leading/trailing whitespace to edit cell values in OpenRefine.
 
 #### Add Column Based on This Column
@@ -61,6 +67,8 @@ You can use simple or complex language to create a new column.
 (Read: You can use GREL or Python script here!)
 
 #### Faceting
+
+{% include figure.html img="refine_facet.jpg" alt="OpenRefine Facet Navigation" caption="OpenRefine Facet Navigation" width="100%" %}
 
 Faceting groups together every identical instance of cell values in a column.
 
