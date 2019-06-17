@@ -63,6 +63,27 @@ The **Delimited Text Translator** maps fields in a delimited text file into a MA
 
 ## Pymarc - What is it?
 
+```
+_|_|_|    _|    _|  _|_|_|  _|_|      _|_|_|  _|  _|_|    _|_|_|
+_|    _|  _|    _|  _|    _|    _|  _|    _|  _|_|      _|
+_|    _|  _|    _|  _|    _|    _|  _|    _|  _|        _|
+_|_|_|      _|_|_|  _|    _|    _|    _|_|_|  _|          _|_|_|
+_|              _|
+_|          _|_|
+```
+
 Python + MARC = PyMARC/pymarc
 
-## When to use Pymarc
+PyMARC or pymarc is a Python library developed in 2005 by Gabriel Farrell, Mark Matienzo, and Ed Summers.
+
+“It was mostly designed to be an emergency eject seat, for getting your data assets out of MARC and into some kind of saner representation. However over the years it has been used to create and modify MARC records, since despite repeated calls for it to die as a format, MARC seems to be living quite happily as a zombie.”
+
+### When to use Pymarc
+
+* You are frequently converting MARC files to Tab Delimited Files.
+* You need to parse MARC elements out and add data or pull apart MARC elements beyond fields/subfields.
+* You want to customize a template for tab delimited exports with specific delimited file requirements.
+
+### pymarc Tutorials
+
+Two-part (free) webinar series “Introduction to Python and PyMARC” - [Part 1](http://www.ala.org/alcts/confevents/upcoming/webinar/101817); [Part 2](http://www.ala.org/alcts/confevents/upcoming/webinar/102517) - with activities by Lauren Magnuson, Head of Collection Management and Technical Services at California State University San Marcos and Development Coordinator for the PALNI Library consortium.
