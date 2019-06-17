@@ -43,17 +43,26 @@ MarcEdit operates on Windows, Linux, and MacOS.
 
 ### Generate Cutter Numbers
 
-* 
+* **Generate Cutters** uses order of preference to generate Cutters automatically.
 
 ## Regular Expressions in MarcEdit
 
+### The power of Find & Replace
+
+If there isn’t a feature to do exactly what you are trying to do, you may be able to use Find & Replace to get the job done. This can be very powerful when used with Regular Expressions.
+
+### Regular Expressions
+
+A **Regular Expression** or **regex** is a text string that describes a pattern that a regex engine uses in order to find text (or positions) in a body of text, typically for the purposes of validating, finding, replacing or splitting.
+
+## Exporting and Importing Tab Delimited Text
+
+The **Delimited Text Translator** maps fields in a delimited text file into a MARCXML or MARC file.
+
+**Export Tab Delimited Records** maps fields in a .mrc or .mrk file, and exports into a .txt (Tab Delimited) file.
 
 ## Pymarc - What is it?
 
+Python + MARC = PyMARC/pymarc
+
 ## When to use Pymarc
-
-
-* MarcEdit – Intro
-* MarcEdit – Using the editor
-* Regular expressions in MarcEdit
-* Pymarc - Intro
