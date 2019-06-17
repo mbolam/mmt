@@ -63,6 +63,15 @@ The **Delimited Text Translator** maps fields in a delimited text file into a MA
 
 ## Pymarc - What is it?
 
+```
+_|_|_|    _|    _|  _|_|_|  _|_|      _|_|_|  _|  _|_|    _|_|_|
+_|    _|  _|    _|  _|    _|    _|  _|    _|  _|_|      _|
+_|    _|  _|    _|  _|    _|    _|  _|    _|  _|        _|
+_|_|_|      _|_|_|  _|    _|    _|    _|_|_|  _|          _|_|_|
+_|              _|
+_|          _|_|
+```
+
 Python + MARC = PyMARC/pymarc
 
 PyMARC or pymarc is a Python library developed in 2005 by Gabriel Farrell, Mark Matienzo, and Ed Summers.
