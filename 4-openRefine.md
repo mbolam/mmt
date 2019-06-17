@@ -74,6 +74,8 @@ Faceting groups together every identical instance of cell values in a column.
 
 ### Clustering
 
+{% include figure.html img="refine_cluster.jpg" alt="OpenRefine Clustering Tools" caption="OpenRefine Clustering Tools" width="100%" %}
+
 Clustering uses natural language processing to group like terms together for you to edit.
 
 It will help you catch mistakes like “nevada” vs. “Nevada” while also letting you decide preferred forms of terms (maybe you want to prefer the plural for subjects i.e. “teachers” over “teacher”).
