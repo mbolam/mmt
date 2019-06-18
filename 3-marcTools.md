@@ -19,13 +19,19 @@ MarcEdit operates on Windows, Linux, and MacOS.
 
 * **Batch Process MARC Records** allows you to run one of the MARC Tools (for file conversion) on multiple files at a time.
 
+{% include figure.html img="marcedit_batch.jpg" alt="MarcEdit Batch Process Screen" caption="MarcEdit Batch Process Screen" width="70%" %}
+
 ### MARC Join
 
 * **MARC Join** is one of many MARC Processing Tools in MarcEdit. It allows users to join a set of files into a single file.
 
+{% include figure.html img="marcedit_join.jpg" alt="MarcEdit Join Screen" caption="MarcEdit Join Screen" width="70%" %}
+
 ### Record Depulication
 
 * **Record Deduplication** can find duplicate records across multiple files or within a single file.
+
+{% include figure.html img="marcedit_dedup.JPG" alt="MarcEdit Deduplication Screen" caption="MarcEdit Deduplication Screen" width="70%" %}
 
 ### Add/Delete Field
 
