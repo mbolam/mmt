@@ -37,6 +37,8 @@ MarcEdit operates on Windows, Linux, and MacOS.
 
 * **Add/Delete Field** allows you to add or delete an entire field across all records in the MarcEdit Mnemonic file (.mrk).
 
+{% include figure.html img="marcedit_add_delete.JPG" alt="MarcEdit Add/Delete Screen" caption="MarcEdit Add/Delete Screen" width="70%" %}
+
 ### Special Undo
 
 * **Special Undo** allows you to undo ONE and ONLY ONE bulk action. The standard undo does not allow you to interact with batch actions.
@@ -45,13 +47,19 @@ MarcEdit operates on Windows, Linux, and MacOS.
 
 * In OCLC Connexion, you are able to validate MARC records against MARC21 Bibliographic Rules – you can also do this in MarcEdit using **MARCValidator**.
 
+{% include figure.html img="marcedit_validator.JPG" alt="MarcEdit Validator Screen" caption="MarcEdit Validator Screen" width="70%" %}
+
 ### Generate Call Numbers
 
-* **Generate Call Numbers** utilizes OCLC’s Classification web service to generate either Dewey Decimal or Library of Congress Headings
+* **Generate Call Numbers** utilizes OCLC’s Classification web service to generate either Dewey Decimal or Library of Congress Headings.
+
+{% include figure.html img="marcedit_callnumber.JPG" alt="MarcEdit Call Number Screen" caption="MarcEdit Call Number Screen" width="70%" %}
 
 ### Generate Cutter Numbers
 
 * **Generate Cutters** uses order of preference to generate Cutters automatically.
+
+{% include figure.html img="marcedit_cutter.JPG" alt="MarcEdit Generate Cutter Numbers Screen" caption="MarcEdit Generate Cutter Numbers Screen" width="70%" %}
 
 ## Regular Expressions in MarcEdit
 
@@ -69,7 +77,7 @@ The **Delimited Text Translator** maps fields in a delimited text file into a MA
 
 **Export Tab Delimited Records** maps fields in a .mrc or .mrk file, and exports into a .txt (Tab Delimited) file.
 
-## Pymarc - What is it?
+## pymarc - What is it?
 
 ```
 _|_|_|    _|    _|  _|_|_|  _|_|      _|_|_|  _|  _|_|    _|_|_|
@@ -86,7 +94,7 @@ _|          _|_|
 
 “It was mostly designed to be an emergency eject seat, for getting your data assets out of MARC and into some kind of saner representation. However over the years it has been used to create and modify MARC records, since despite repeated calls for it to die as a format, MARC seems to be living quite happily as a zombie.”
 
-### When to use Pymarc
+### When to use pymarc
 
 * You are frequently converting MARC files to Tab Delimited Files.
 * You need to parse MARC elements out and add data or pull apart MARC elements beyond fields/subfields.
