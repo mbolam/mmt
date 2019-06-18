@@ -7,6 +7,8 @@ nav: true
 
 ## MarcEdit - What is it?
 
+{% include figure.html img="marcedit_home.jpg" alt="MarcEdit Home Screen" caption="MarcEdit -- Your Complete Free MARC Editing Utility" width="100%" %}
+
 Terry Reese created MarcEditin 1999 while at Oregon State University. Terry is now the Head of Digital Initiatives at Ohio State University.
 
 MarcEdit operates on Windows, Linux, and MacOS.
