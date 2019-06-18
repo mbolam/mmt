@@ -16,6 +16,10 @@ nav: true
 * [Introduction to the Mac OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
 ## MARC Tools
+
+### Lists of MARC Tools, Programming Libraries, and Unitilities
+* [Code4Lib Working with MARC](https://wiki.code4lib.org/Working_with_MARC)
+
 ### MarcEdit
 * [MarcEdit (LibGuide by University of Illinois at Urbana-Champaign)](https://guides.library.illinois.edu/MarcEdit)
 * [MarcEdit Instructions for Cataloguers](https://wiki.ucl.ac.uk/display/LibraryServices/MarcEdit+Instructions+for+Cataloguers)
