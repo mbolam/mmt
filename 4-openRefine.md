@@ -102,7 +102,7 @@ When you create a new project, you can then apply that script and it will automa
 
 When you are done with your project, and you have decided that you only need to extract the results of your cleanup project, you will export your data.
 
-{% include figure.html img="refine_export.jpg" alt="OpenRefine Export Functions" caption="Export Functions" width="50%" %}
+{% include figure.html img="refine_export.jpg" alt="OpenRefine Export Functions" caption="OpenRefine Export Functions" width="50%" %}
 
 ### Importing and Exporting Projects
 
