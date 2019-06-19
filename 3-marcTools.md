@@ -67,6 +67,12 @@ MarcEdit operates on Windows, Linux, and MacOS.
 
 If there isn’t a feature to do exactly what you are trying to do, you may be able to use Find & Replace to get the job done. This can be very powerful when used with Regular Expressions.
 
+**Warnings:**
+* **Less is More** - Make sure you are **isolating** the elements you want to change.
+* **Work from Complicated to Simple** - Always replace the longest, most detailed string **FIRST**, then work backwards.
+
+{% include figure.html img="3010_original.png" alt="Example of bad find and replace from the Dungeons & Dragons book Encyclopedia Magica, Volume 1." caption="Example of Bad Find and Replace: Entry for the Cube of Frost Resistance. Dungeons & Dragons  Encyclopedia Magica, Volume 1. 1994." width="70%" %}
+
 ### Regular Expressions
 
 A **Regular Expression** or **regex** is a text string that describes a pattern that a regex engine uses in order to find text (or positions) in a body of text, typically for the purposes of validating, finding, replacing or splitting.
