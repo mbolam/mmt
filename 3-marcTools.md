@@ -73,6 +73,8 @@ If there isn’t a feature to do exactly what you are trying to do, you may be a
 
 {% include figure.html img="3010_original.png" alt="Example of bad find and replace from the Dungeons & Dragons book Encyclopedia Magica, Volume 1." caption="Example of Bad Find and Replace: Entry for the Cube of Frost Resistance. Dungeons & Dragons  Encyclopedia Magica, Volume 1. 1994." width="70%" %}
 
+[Sample MARC ETD Data](/data/marctools/ETD_Metadata.mrk)
+
 ### Regular Expressions
 
 A **Regular Expression** or **regex** is a text string that describes a pattern that a regex engine uses in order to find text (or positions) in a body of text, typically for the purposes of validating, finding, replacing or splitting.
