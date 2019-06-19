@@ -79,6 +79,8 @@ If there isn’t a feature to do exactly what you are trying to do, you may be a
 
 A **Regular Expression** or **regex** is a text string that describes a pattern that a regex engine uses in order to find text (or positions) in a body of text, typically for the purposes of validating, finding, replacing or splitting.
 
+{% include figure.html img="marcedit_buildnew.jpg" alt="MarcEdit Build New Fields Screen" caption="MarcEdit Build New Fields Screen Showing Example Regex" width="70%" %}
+
 ## Exporting and Importing Tab Delimited Text
 
 The **Delimited Text Translator** maps fields in a delimited text file into a MARCXML or MARC file.
