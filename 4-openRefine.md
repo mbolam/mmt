@@ -16,6 +16,13 @@ nav: true
 
 # Using OpenRefine
 
+
+## If You Close Your Browser Window
+
+If you close your browser or tab, open a new browser window or tab and navigate to:
+
+**http://127.0.0.1:3333/** or **http://localhost:3333/**
+
 ## Creating a New Project
 
 You can create a new project with data from:
