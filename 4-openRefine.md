@@ -21,7 +21,7 @@ nav: true
 
 If you close your browser or tab, open a new browser window or tab and navigate to:
 
-**http://127.0.0.1:3333/** or **http://localhost:3333/**
+**[http://127.0.0.1:3333/](http://127.0.0.1:3333/)** or **[http://localhost:3333/](http://localhost:3333/)**
 
 ## Creating a New Project
 
