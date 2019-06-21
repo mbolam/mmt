@@ -53,7 +53,7 @@ OpenRefine tracks all of the changes you make in your project, so it is easy to 
 
 WARNING: Once you go back and make another change from that point, you will lose everything you did after that point originally.
 
-{% include figure.html img="refine_undo.jpg" alt="OpenRefine Home Screen" caption="OpenRefine Home Screen" width="50%" %}
+{% include figure.html img="refine_undo.jpg" alt="OpenRefine Undo/Redo Tool" caption="OpenRefine Undo/Redo Tool" width="50%" %}
 
 ### Trim Whitespace
 
@@ -75,7 +75,7 @@ If you want to create a new column, drawing from data in another column use this
 You can use simple or complex language to create a new column.
 (Read: You can use GREL or Python script here!)
 
-{% include figure.html img="refine_addcolumn.png" alt="OpenRefine Add Column Based on this Column Tool" caption="OpenRefine Add Column Based on this Column Tool" width="50%" %}
+{% include figure.html img="refine_addcolumn.png" alt="OpenRefine Add Column Based on this Column Tool" caption="OpenRefine Add Column Based on this Column Tool" width="100%" %}
 
 ### Faceting
 
