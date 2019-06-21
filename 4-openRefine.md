@@ -87,7 +87,7 @@ Faceting groups together every identical instance of cell values in a column.
 
 For better faceting and clustering, sometimes its better to split multi-valued cells within the same column. In OpenRefine this makes new rows in each record. These can be recombined later, after the data is cleaned.
 
-{% include figure.html img="refine_splitcell.png" alt="OpenRefine Clustering Tools" caption="OpenRefine Clustering Tools" width="100%" %}
+{% include figure.html img="refine_splitcell.png" alt="OpenRefine Split Multi-Value Cell Tool" caption="penRefine Split Multi-Value Cell Tool" width="100%" %}
 
 ### Clustering
 
