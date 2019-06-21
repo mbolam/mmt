@@ -83,13 +83,19 @@ Faceting groups together every identical instance of cell values in a column.
 
 {% include figure.html img="refine_facet.jpg" alt="OpenRefine Facet Navigation" caption="OpenRefine Facet Navigation" width="50%" %}
 
+### Split Multi-Valued Cells
+
+For better faceting and clustering, sometimes its better to split multi-valued cells within the same column. In OpenRefine this makes new rows in each record. These can be recombined later, after the data is cleaned.
+
+{% include figure.html img="refine_clustering.png" alt="OpenRefine Clustering Tools" caption="OpenRefine Clustering Tools" width="100%" %}
+
 ### Clustering
 
 Clustering uses natural language processing to group like terms together for you to edit.
 
 It will help you catch mistakes like “nevada” vs. “Nevada” while also letting you decide preferred forms of terms (maybe you want to prefer the plural for subjects i.e. “teachers” over “teacher”).
 
-{% include figure.html img="refine_cluster.jpg" alt="OpenRefine Clustering Tools" caption="OpenRefine Clustering Tools" width="100%" %}
+{% include figure.html img="refine_clustering.png" alt="OpenRefine Clustering Tools" caption="OpenRefine Clustering Tools" width="100%" %}
 
 ### Filtering
 
