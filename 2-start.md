@@ -94,12 +94,9 @@ You have received a file with image files that you are planning to accession int
 
 ## Programs mentioned by order of appearance:
 * [MarcEdit](https://marcedit.reeset.net/)
-* [Git](https://git-scm.com/)
 * Command Line - Built into your computer
 * [Notepad++](https://notepad-plus-plus.org/download/v7.7.html)
 * [Sublime Text Editor](https://www.sublimetext.com/)
-* [Linux Command Line Emulator](https://www.masswerk.at/jsuix/)
 * [FITS (File Information Tool Set)](https://projects.iq.harvard.edu/fits/home)
 * [DataAccessioner](http://dataaccessioner.org/)
 * [DataAccessioner Metadata Transformer](http://dataaccessioner.org/da-mt.htm)
-* [RightsStatements.org](http://rightsstatements.org/)
