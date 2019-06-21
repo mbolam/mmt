@@ -16,6 +16,13 @@ nav: true
 
 # Using OpenRefine
 
+## Metadata Cleaning Scenario
+
+You have a CSV file of MARC fields extracted from your ILS (probably generated using MarcEdit). It represents a collection of children's board books. A faculty member is interested in using the data in her research, but the MARC elements and subfields, and multi-valued cells aren't going to work for her needs. You are hoping the build a reusable workflow for these materials
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
 
 ## If You Close Your Browser Window
 

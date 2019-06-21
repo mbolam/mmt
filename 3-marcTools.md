@@ -5,11 +5,19 @@ nav: true
 
 # Metadata Management Tools for MARC
 
+## MARC Cleanup and Batch Editing Scenario
+
+You have a multiple batches of MARC records (in binary format) extracted from your ILS. It represents a collection of children's board books. There are a number of updates and changes needed to improve the records before they are added back into the catalog.
+
+* What kind of metadata are we dealing with?
+* What file types are we working with?
+* Where is it going?
+
 ## MarcEdit - What is it?
 
 {% include figure.html img="marcedit_home.jpg" alt="MarcEdit Home Screen" caption="MarcEdit -- Your Complete Free MARC Editing Utility" width="100%" %}
 
-Terry Reese created MarcEditin 1999 while at Oregon State University. Terry is now the Head of Digital Initiatives at Ohio State University.
+Terry Reese created MarcEdit in 1999 while at Oregon State University. Terry is now the Head of Digital Initiatives at Ohio State University.
 
 MarcEdit operates on Windows, Linux, and MacOS.
 
