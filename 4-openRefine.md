@@ -99,7 +99,7 @@ It will help you catch mistakes like “nevada” vs. “Nevada” while also le
 
 ### Filtering
 
-Allows you to filter rows or records by keyword searching a column.
+Filtering allows you to filter rows or records by keyword or regular expression searching a column.
 
 ## Generating Scripts from OpenRefine
 
