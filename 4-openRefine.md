@@ -75,6 +75,8 @@ If you want to create a new column, drawing from data in another column use this
 You can use simple or complex language to create a new column.
 (Read: You can use GREL or Python script here!)
 
+{% include figure.html img="refine_facet.jpg" alt="OpenRefine Add Column Based on this Column Tool" caption="OpenRefine Add Column Based on this Column Tool" width="50%" %}
+
 ### Faceting
 
 Faceting groups together every identical instance of cell values in a column.
